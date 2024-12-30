@@ -31,9 +31,11 @@ jobs:
           git checkout master
 
           # new way to copy files
-
+          cd content
+          cd Posts
+          
           git checkout posts "*"
-          git checkout master
+          # git checkout master
 
           # Step 2.5: Stage and commit the new/updated content
           git add content/Posts/
