@@ -31,7 +31,6 @@ jobs:
           git checkout master
 
           # new way to copy files
-          cd content/Posts/
 
           git checkout posts "*"
           git checkout master
