@@ -45,19 +45,19 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-          git fetch origin posts
-          git checkout posts
-          
-          # git branch clean
-          # git checkout clean
+          git branch clean
+          git checkout clean
 
           git rm -r * 
           git add .
           git commit -m "cleared"
+          
+          git fetch origin posts
+          git checkout posts
 
-          # git merge clean --allow-unrelated-histories
-          # git branch -d clean
-          git push origin posts 
+          git merge clean --allow-unrelated-histories
+          git branch -d clean
+          git push origin posts
           
 
       # Step 3: Setup Hugo
