@@ -6,6 +6,6 @@ toc : true
 ShowLastmod : true
 ---
 
-## day 2 try 300
+## day 2 try 30
 
 is it working??
