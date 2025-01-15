@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/</loc>
-    <lastmod>2025-01-14T15:51:02+00:00</lastmod>
+    <lastmod>2025-01-15T15:16:13+00:00</lastmod>
+  </url><url>
+    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/readme/</loc>
+    <lastmod>2025-01-15T15:14:19+00:00</lastmod>
   </url><url>
     <loc>https://demetrebadzaradze.github.io/Second-Brain/en/</loc>
-    <lastmod>2025-01-14T15:51:02+00:00</lastmod>
+    <lastmod>2025-01-15T15:16:13+00:00</lastmod>
   </url><url>
     <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/testing-whole-site/</loc>
-    <lastmod>2025-01-14T15:51:02+00:00</lastmod>
+    <lastmod>2025-01-15T15:14:19+00:00</lastmod>
   </url><url>
     <loc>https://demetrebadzaradze.github.io/Second-Brain/en/about/</loc>
     <lastmod>2024-12-22T19:01:24+04:00</lastmod>
@@ -21,5 +24,8 @@
     <lastmod>2024-12-25T14:30:01+04:00</lastmod>
   </url><url>
     <loc>https://demetrebadzaradze.github.io/Second-Brain/en/tags/</loc>
+  </url><url>
+    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/default-hugo-post-props/</loc>
+    <lastmod>2025-01-15T15:16:13+00:00</lastmod>
   </url>
 </urlset>

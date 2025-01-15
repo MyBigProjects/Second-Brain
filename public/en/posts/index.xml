@@ -7,9 +7,63 @@
 		<generator>Hugo -- 0.139.4</generator>
 		<language>en-us</language>
 		<copyright>Everything you say can and will be used aganst you.</copyright>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://demetrebadzaradze.github.io/Second-Brain/en/posts/index.xml" rel="self" type="application/rss+xml" />
 		
+		
+		<item>
+			<title>README.md</title>
+			<link>https://demetrebadzaradze.github.io/Second-Brain/en/posts/readme/</link>
+			<pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><author>Demetre Badzgaradze</author><guid>https://demetrebadzaradze.github.io/Second-Brain/en/posts/readme/</guid>
+			<description><![CDATA[README from github]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="second-brain">Second Brain<a href="#second-brain" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p><strong>Second Brain is a blog</strong> witch lives on GitHub and posts can be added though git.</p>
+<h3 id="how-does-it-work">How does it work<a href="#how-does-it-work" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Base of this site is <a href="https://gohugo.io/">Hugo</a> witch I use to turn <code>.md</code> files into <code>Html</code>&rsquo;s and with help of theme <a href="https://themes.gohugo.io/themes/hermit-v2/">Hermit-v2</a> I didn&rsquo;t have to write any html/CSS or JavaScript  and all of that made this beautiful <a href="https://demetrebadzaradze.github.io/Second-Brain/en/">site</a> .
+Next was moving that to git for living, so I wont have to modify and tweak master branch manually or even build over and over again for that I have 3 different branches <code>master</code>, <code>posts</code>, <code>For-Hosting</code> witch have different proposes.</p>
+<ul>
+<li><code>master</code> contain whole thing , that also where building site happens.</li>
+<li><code>posts</code> is mostly clear branch but I might change that to contain all posts but what it does RN is with GitHub action when someone pushes to that branch, it moves every <code>.md</code> files to master branch in <code>content/Posts</code>, and then gets cleared.</li>
+<li><code>For-Hosting</code> is what name suggests and it contains <code>public</code> folder from <code>master</code> witch is already built site</li>
+</ul>
+<h3 id="how-can-you-use-it">How can you use it??<a href="#how-can-you-use-it" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>coming soon.</p>
+<h3 id="what-im-planning-to-do">what I&rsquo;m planning to do<a href="#what-im-planning-to-do" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<ol>
+<li>this site will contain things I do in programing, so it will be portfolio like.</li>
+<li>I also am tryna make this as factionless as possible for other less experienced people to use and for me to, like I don&rsquo;t want to resolve merge conflict hen I just want to write so here are some ideas for this:
+<ul>
+<li><strong>obsidian extension</strong>
+I use obsidian for note taking and I also will for writing this posts because it simple and  I can mod it to add publishing from the obsidian so no terminal or web needed for that.</li>
+<li><strong>usable for many OS</strong>
+currently it only works on my windows machine but I will try to make it for other people too if someone needs.</li>
+<li>**some posts ideas **
+<ol>
+<li>home server stuff.</li>
+<li>deep dive on how does this site works.</li>
+<li>and I need to make list for future projects too.</li>
+</ol>
+</li>
+</ul>
+</li>
+</ol>
+]]></content>
+		</item>
 		
 		<item>
 			<title>testinn whole site</title>
@@ -20,15 +74,14 @@
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
    </svg></a></h3>
-<p>i am so tired,
-i made posts branch that is clear and gets cleared every time someone pushes to it with workflow that:</p>
+<p>I made posts branch that is clear and gets cleared every time someone pushes to it with workflow that:</p>
 <ol>
 <li>copies all .md files from posts branch into master</li>
 <li>build site with hugo+hermit-v2 and updates repo</li>
-<li>then takes <code>public</code> dir and copies it to <code>For-Hosting</code> branch</li>
-<li>and the github pages workflow is beeng runed and site is beeng published</li>
+<li>then takes <code>public</code> Dir and copies it to <code>For-Hosting</code> branch</li>
+<li>and the GitHub pages workflow is being ran and site is being published</li>
 </ol>
-<h4 id="i-will-be-updating-this-file-about-how-things-work-in-here-and-some-future-stuff-that-i-will-be-doing-on-this-site">i will be updating this file about how things work in here, and some future stuff that i will be doing on this site.<a href="#i-will-be-updating-this-file-about-how-things-work-in-here-and-some-future-stuff-that-i-will-be-doing-on-this-site" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+<h4 id="i-will-be-updating-this-file-about-how-things-work-in-here-and-some-future-stuff-that-i-will-be-doing-on-this-site">I will be updating this file about how things work in here, and some future stuff that I will be doing on this site.<a href="#i-will-be-updating-this-file-about-how-things-work-in-here-and-some-future-stuff-that-i-will-be-doing-on-this-site" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
       <line x1="8" y1="12" x2="16" y2="12"></line>
@@ -304,6 +357,13 @@ if its called different name check with <code>docker ps</code></li>
 </ol>
 <p>and it should work now for cracked players.</p>
 ]]></content>
+		</item>
+		
+		<item>
+			<title>title</title>
+			<link>https://demetrebadzaradze.github.io/Second-Brain/en/posts/default-hugo-post-props/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Demetre Badzgaradze</author><guid>https://demetrebadzaradze.github.io/Second-Brain/en/posts/default-hugo-post-props/</guid>
+			<description><![CDATA[Enter a description here]]></description><content type="text/html" mode="escaped"><![CDATA[]]></content>
 		</item>
 		
 	</channel>
