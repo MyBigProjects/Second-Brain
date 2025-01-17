@@ -46,7 +46,18 @@ and then host target folder with <code>cmd</code>. go to path file is located in
    </svg></a></h3>
 <p>navigate to directory for download to go in and run:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">wget http://&lt;widnsows IP&gt;:8000/&lt;file-name-with-extention&gt;
-</span></span></code></pre></div><p>and the wait.</p>
+</span></span></code></pre></div><p>if there is multiple files in folder and that what you want to download use:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">wget -r -np -nH --cut-dirs<span class="o">=</span><span class="m">1</span> -A <span class="s2">&#34;episode*&#34;</span> http://&lt;windows machine IP&gt;/&lt;url of folder&gt;
+</span></span></code></pre></div><ul>
+<li><code>-r</code> downloads content recursively</li>
+<li><code>-np</code> doesn&rsquo;t creates parent folder</li>
+<li><code>-nh</code> doesn&rsquo;t creates host directory</li>
+<li><code>--cur-dirs=1</code> ignores top level directory</li>
+<li><code>-A &quot;episode*&quot;</code> only accepts files that match this.
+pattern.</li>
+</ul>
+<p>and the wait.</p>
+<p>more on wget <a href="https://www.gnu.org/software/wget/manual/wget.html">here</a>.</p>
 <h3 id="note">note<a href="#note" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
