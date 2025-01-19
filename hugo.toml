@@ -4,7 +4,7 @@
 # To see what each config does, refer to https://1bl4z3r.github.io/hermit-V2/en/posts/explaining-configs/
 # Open Issue or Pull Request at https://github.com/1bl4z3r/hermit-V2
 
-baseURL = "https://demetrebadzaradze.github.io/Second-Brain/"
+baseURL = "https://mybigprojects.github.io/Second-Brain/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 theme = "hermit-v2"
@@ -39,7 +39,7 @@ pygmentsUseClasses  = true
 
 rssLimit = 10
 
-copyright = "Everything you say can and will be used aganst you."
+copyright = "I still don't know what copyright is."
 enableEmoji = true
 
 #[services]
@@ -58,7 +58,7 @@ ShowLastmod = true
 
 
 [params.author]
-  name = "Demetre Badzgaradze"
+  name = "who am i"
   about = "#IDONTKNOW"
 
 [blackfriday]
@@ -88,15 +88,15 @@ ShowLastmod = true
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  description = "this is my second brain"
+  description = "this is my third brain"
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Second brain.............thats CRAZY"
-  footerCopyright = "Everything you say can and will be used aganst you."
+  homeSubtitle = "Third brain....thats CRAZY on another level"
+  footerCopyright = "I still don't know what copyright is."
   footerHideThemeName = true
   # bgImg = ""
-  gitUrl = "https://github.com/demetrebadzaradze"
+  gitUrl = "https://github.com/MyBigProjects"
 
   justifyContent = false
 
@@ -131,7 +131,7 @@ ShowLastmod = true
 
   [[params.socialLinks]]
     name = "github"
-    url = "https://github.com/demetrebadzaradze"
+    url = "https://github.com/MyBigProjects"
   [[params.toc]]
     toc = true
 
