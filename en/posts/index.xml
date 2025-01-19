@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title>Posts on Second Brain</title>
-		<link>https://demetrebadzaradze.github.io/Second-Brain/en/posts/</link>
+		<link>https://mybigprojects.github.io/Second-Brain/en/posts/</link>
 		<description>Recent content in Posts on Second Brain</description>
 		<generator>Hugo -- 0.139.4</generator>
 		<language>en-us</language>
-		<copyright>Everything you say can and will be used aganst you.</copyright>
+		<copyright>I still don&#39;t know what copyright is.</copyright>
 		<lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://demetrebadzaradze.github.io/Second-Brain/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://mybigprojects.github.io/Second-Brain/en/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
 			<title>How to send giant files from windows to Linux (fastest way, local network)</title>
-			<link>https://demetrebadzaradze.github.io/Second-Brain/en/posts/how-to-send-giant-files-from-windows-to-linux-fastest-way-local-network/</link>
-			<pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate><author>Demetre Badzgaradze</author><guid>https://demetrebadzaradze.github.io/Second-Brain/en/posts/how-to-send-giant-files-from-windows-to-linux-fastest-way-local-network/</guid>
+			<link>https://mybigprojects.github.io/Second-Brain/en/posts/how-to-send-giant-files-from-windows-to-linux-fastest-way-local-network/</link>
+			<pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate><author>who am i</author><guid>https://mybigprojects.github.io/Second-Brain/en/posts/how-to-send-giant-files-from-windows-to-linux-fastest-way-local-network/</guid>
 			<description><![CDATA[of course it is not fastest for everyone but i only use one thing that needs downloading, python, to host and on Linux wget to receive it]]></description><content type="text/html" mode="escaped"><![CDATA[<h2 id="how-to-send-giant-files-from-windows-to-linux-fastest-way-local-network">How to send giant files from windows to Linux (fastest way, local network)<a href="#how-to-send-giant-files-from-windows-to-linux-fastest-way-local-network" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
@@ -70,8 +70,8 @@ pattern.</li>
 		
 		<item>
 			<title>README.md</title>
-			<link>https://demetrebadzaradze.github.io/Second-Brain/en/posts/readme/</link>
-			<pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><author>Demetre Badzgaradze</author><guid>https://demetrebadzaradze.github.io/Second-Brain/en/posts/readme/</guid>
+			<link>https://mybigprojects.github.io/Second-Brain/en/posts/readme/</link>
+			<pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><author>who am i</author><guid>https://mybigprojects.github.io/Second-Brain/en/posts/readme/</guid>
 			<description><![CDATA[README from github]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="second-brain">Second Brain<a href="#second-brain" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
@@ -124,8 +124,8 @@ currently it only works on my windows machine but I will try to make it for othe
 		
 		<item>
 			<title>testinn whole site</title>
-			<link>https://demetrebadzaradze.github.io/Second-Brain/en/posts/testing-whole-site/</link>
-			<pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate><author>Demetre Badzgaradze</author><guid>https://demetrebadzaradze.github.io/Second-Brain/en/posts/testing-whole-site/</guid>
+			<link>https://mybigprojects.github.io/Second-Brain/en/posts/testing-whole-site/</link>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate><author>who am i</author><guid>https://mybigprojects.github.io/Second-Brain/en/posts/testing-whole-site/</guid>
 			<description><![CDATA[this site is hosted on github and i have some CI/CD stuff and this is testing it. so, is it working??]]></description><content type="text/html" mode="escaped"><![CDATA[<h3 id="how-does-it-works">how does it works<a href="#how-does-it-works" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
@@ -147,9 +147,34 @@ currently it only works on my windows machine but I will try to make it for othe
 		</item>
 		
 		<item>
+			<title>testinn whole site</title>
+			<link>https://mybigprojects.github.io/Second-Brain/en/posts/testing/</link>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate><author>who am i</author><guid>https://mybigprojects.github.io/Second-Brain/en/posts/testing/</guid>
+			<description><![CDATA[this site is hosted on github and i have some CI/CD stuff and this is testing it. so, is it working??]]></description><content type="text/html" mode="escaped"><![CDATA[<h3 id="how-does-it-works">how does it works<a href="#how-does-it-works" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>i am so tired,
+i made posts branch that is clear and gets cleared every time someone pushes to it with workflow that:</p>
+<ol>
+<li>copies all .md files from posts branch into master</li>
+<li>build site with hugo+hermit-v2 and updates repo</li>
+<li>then takes <code>public</code> dir and copies it to <code>For-Hosting</code> branch</li>
+<li>and the github pages workflow is beeng runed and site is beeng published</li>
+</ol>
+<h4 id="i-will-be-updating-this-file-about-how-things-work-in-here-and-some-future-stuff-that-i-will-be-doing-on-this-site">i will be updating this file about how things work in here, and some future stuff that i will be doing on this site.<a href="#i-will-be-updating-this-file-about-how-things-work-in-here-and-some-future-stuff-that-i-will-be-doing-on-this-site" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h4>
+]]></content>
+		</item>
+		
+		<item>
 			<title>Handling images for hugo</title>
-			<link>https://demetrebadzaradze.github.io/Second-Brain/en/posts/handling-images-for-hugo/</link>
-			<pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><author>Demetre Badzgaradze</author><guid>https://demetrebadzaradze.github.io/Second-Brain/en/posts/handling-images-for-hugo/</guid>
+			<link>https://mybigprojects.github.io/Second-Brain/en/posts/handling-images-for-hugo/</link>
+			<pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><author>who am i</author><guid>https://mybigprojects.github.io/Second-Brain/en/posts/handling-images-for-hugo/</guid>
 			<description><![CDATA[how i handle images for hugo]]></description><content type="text/html" mode="escaped"><![CDATA[<h2 id="plan">Plan<a href="#plan" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
@@ -286,8 +311,8 @@ this doesn&rsquo;t one is same as 4 but it doesn&rsquo;t has label</li>
 		
 		<item>
 			<title>Host terraria server on Linux server</title>
-			<link>https://demetrebadzaradze.github.io/Second-Brain/en/posts/host-terraria-server-on-linux-server/</link>
-			<pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><author>Demetre Badzgaradze</author><guid>https://demetrebadzaradze.github.io/Second-Brain/en/posts/host-terraria-server-on-linux-server/</guid>
+			<link>https://mybigprojects.github.io/Second-Brain/en/posts/host-terraria-server-on-linux-server/</link>
+			<pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><author>who am i</author><guid>https://mybigprojects.github.io/Second-Brain/en/posts/host-terraria-server-on-linux-server/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p><strong>easiest and simplest way</strong> to do this is to run it on <a href="https://www.youtube.com/watch?v=oUnWU4Y4kSY">docker</a>, because docker is pure magic and there docker image that handles all of what this needs called <code>rathena/terraria</code>.</p>
 <h2 id="installing-docker">installing docker<a href="#installing-docker" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
@@ -418,8 +443,8 @@ if its called different name check with <code>docker ps</code></li>
 		
 		<item>
 			<title>title</title>
-			<link>https://demetrebadzaradze.github.io/Second-Brain/en/posts/default-hugo-post-props/</link>
-			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Demetre Badzgaradze</author><guid>https://demetrebadzaradze.github.io/Second-Brain/en/posts/default-hugo-post-props/</guid>
+			<link>https://mybigprojects.github.io/Second-Brain/en/posts/default-hugo-post-props/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>who am i</author><guid>https://mybigprojects.github.io/Second-Brain/en/posts/default-hugo-post-props/</guid>
 			<description><![CDATA[Enter a description here]]></description><content type="text/html" mode="escaped"><![CDATA[]]></content>
 		</item>
 		

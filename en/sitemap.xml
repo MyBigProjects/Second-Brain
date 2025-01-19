@@ -2,33 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/how-to-send-giant-files-from-windows-to-linux-fastest-way-local-network/</loc>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/posts/how-to-send-giant-files-from-windows-to-linux-fastest-way-local-network/</loc>
     <lastmod>2025-01-17T08:05:55+00:00</lastmod>
   </url><url>
-    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/</loc>
-    <lastmod>2025-01-17T08:05:55+00:00</lastmod>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/posts/</loc>
+    <lastmod>2025-01-19T10:26:43+00:00</lastmod>
   </url><url>
-    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/</loc>
-    <lastmod>2025-01-17T08:05:55+00:00</lastmod>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/</loc>
+    <lastmod>2025-01-19T10:26:43+00:00</lastmod>
   </url><url>
-    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/readme/</loc>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/posts/readme/</loc>
     <lastmod>2025-01-15T15:14:19+00:00</lastmod>
   </url><url>
-    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/testing-whole-site/</loc>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/posts/testing-whole-site/</loc>
     <lastmod>2025-01-15T15:14:19+00:00</lastmod>
   </url><url>
-    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/about/</loc>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/posts/testing/</loc>
+    <lastmod>2025-01-19T10:26:43+00:00</lastmod>
+  </url><url>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/about/</loc>
     <lastmod>2024-12-22T19:01:24+04:00</lastmod>
   </url><url>
-    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/handling-images-for-hugo/</loc>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/posts/handling-images-for-hugo/</loc>
     <lastmod>2024-12-25T14:30:01+04:00</lastmod>
   </url><url>
-    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/host-terraria-server-on-linux-server/</loc>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/posts/host-terraria-server-on-linux-server/</loc>
     <lastmod>2024-12-25T14:30:01+04:00</lastmod>
   </url><url>
-    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/tags/</loc>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/tags/</loc>
   </url><url>
-    <loc>https://demetrebadzaradze.github.io/Second-Brain/en/posts/default-hugo-post-props/</loc>
+    <loc>https://mybigprojects.github.io/Second-Brain/en/posts/default-hugo-post-props/</loc>
     <lastmod>2025-01-15T15:16:13+00:00</lastmod>
   </url>
 </urlset>
